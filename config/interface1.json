@@ -1,0 +1,10 @@
+{
+    "isQueryneeded" : "false",
+    "mailtemplates" : {
+        "business" : "business_interface1.tpl",
+        "support" : "support_interface1.tpl",
+    }
+    "business_snstopic" : "interface1_business_topic",
+    "support_snstopic" : "interface1_support_topic",
+    "sqlQuery" : "select * from log_tables where id=?"
+}
